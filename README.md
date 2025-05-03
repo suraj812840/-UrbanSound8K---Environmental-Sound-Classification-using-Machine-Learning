@@ -1,0 +1,2 @@
+# -UrbanSound8K---Environmental-Sound-Classification-using-Machine-Learning
+The UrbanSound8K dataset is a collection of 8,732 labeled audio clips (each ≤ 4 seconds long), grouped into 10 classes of common urban sounds such as air conditioner, car horn, children playing, dog bark, drilling, engine idling, gunshot, jackhammer, siren, and street music. Each clip is a .wav file, and metadata is provided in a CSV file .
